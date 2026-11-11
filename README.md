@@ -42,4 +42,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/mdfaizan79/DSA-Coding-Questions/tree/master/0009-palindrome-number) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/mdfaizan79/DSA-Coding-Questions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
